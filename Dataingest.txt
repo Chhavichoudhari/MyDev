@@ -1,2 +1,7 @@
  This is another data ingestion fileeee.
+<<<<<<< HEAD
 Hie, what is thie behaviour?
+=======
+i am working as a DE in an MNC
+i am very much good in DE and working remotely in an MNC and very happy
+>>>>>>> feature_chhavi_1
